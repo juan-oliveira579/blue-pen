@@ -1,1 +1,1 @@
-# blue-pen simplesmente abra o arquivo index.html
+# abra o arquivo index.html
